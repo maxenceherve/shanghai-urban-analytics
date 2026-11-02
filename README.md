@@ -1,7 +1,6 @@
 # Shanghai Urban Analytics — What drives housing value?
 
-![Main result](<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/40f367bd-423a-44d6-94b5-bd496b745df1" />
-)
+![Main result](figures/cover.png)
 
 Data analysis of the Shanghai housing market combining **300,000+ housing listings** and over **1 million points of interest (POIs)** to identify the drivers of housing prices and map gaps in access to urban amenities.
 
